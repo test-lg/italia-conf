@@ -1,8 +1,8 @@
 publisher:
-  name: Italia
-  description: "GitHub Italia è l'organizzazione GitHub di Developers Italia, la comunità dedicata allo sviluppo di software open-source a supporto dei servizi pubblici digitali Italiani."
-  logo: assets/images/logo-italia-512x512.png
-  website: https://developers.italia.it/
+  name: AgID
+  description: "Spazio per il test editoriale delle Linee Guida dell'Agenzia per l'Italia Digitale, Servizio Accreditamento."
+  logo: assets/images/AgID_logotype-h_white_it_mid.png
+  website: https://www.agid.gov.it/
   short_name: IT
   tags:
-    - italia
+    - AgID
