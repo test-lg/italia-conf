@@ -2,7 +2,7 @@ projects:
   -
     name: LL.GG. cessazione servizio di conservazione
     description: "Consultazione pubblica circa le Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici"
-    website: https://www.agid.gov.it
+    website: https://github.com/test-lg/test-lg-13
     documents:
       - index.rst
     logo: assets/images/AgID_logotype-h_white_it_mid.png
