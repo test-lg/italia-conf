@@ -5,4 +5,6 @@ projects:
     website: https://github.com/test-lg/test-lg-13
     documents:
       - index.rst
+      - LLGG_cessazione-servizio-conservazione.rst
+      - attachments/All.A_schema-documento.rst
     logo: assets/images/AgID_logotype-h_white_it_mid.png
