@@ -1,10 +1,12 @@
 projects:
   -
-    name: LL.GG. cessazione servizio di conservazione
-    description: "Consultazione pubblica circa le Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici"
-    website: https://github.com/test-lg/test-lg-13
+    name: Linee Guida ex art. 71 del CAD
+    description: "Configurazione generale per le Linee Guida ex art 71 del CAD; Servizio Accreditamento"
+    website: https://github.com/test-lg/
     documents:
       - index.rst
-      - LLGG_cessazione-servizio-conservazione.rst
-      - attachments/All.A_schema-documento.rst
     logo: assets/images/AgID_logotype-h_white_it_mid.png
+    tags:
+      - CAD
+      - eIDAS
+      - GDPR
