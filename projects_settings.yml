@@ -1,11 +1,14 @@
 projects:
-  -
-    name: Linee Guida ex art. 71 del CAD
-    description: "Configurazione generale per le Linee Guida ex art 71 del CAD; Servizio Accreditamento"
+  - name: Consultazione pubblica per le Linee Guida ex art. 71 del CAD
+    short_name: Linee Guida ex art.71 CAD
+    description: |
+      Configurazione generale per le Linee Guida ex art 71 del CAD; Servizio Accreditamento.
     website: https://github.com/test-lg/
-    documents:
-      - index.rst
     logo: assets/images/AgID_logotype-h_white_it_mid.png
+    documents:
+      - test-lg-01
+      - test-lg-03
+      - test-lg-13
     tags:
       - CAD
       - eIDAS
