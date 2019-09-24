@@ -3,6 +3,6 @@ publisher:
   description: "Spazio per il test editoriale delle Linee Guida dell'Agenzia per l'Italia Digitale, Servizio Accreditamento."
   logo: assets/images/AgID_logotype-h_white_it_mid.png
   website: https://www.agid.gov.it/
-  short_name: IT
+  short_name: AgID
   tags:
     - AgID
