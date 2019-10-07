@@ -8,6 +8,7 @@ projects:
     documents:
       - test-lg-01
       - test-lg-03
+      - test-lg-10
       - test-lg-13
     tags:
       - CAD
