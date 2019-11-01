@@ -10,6 +10,8 @@ projects:
       - test-lg-03
       - test-lg-10
       - test-lg-13
+      - lg_doc-informatico_A.2
+      - lg_SPID_uso-professionale
     tags:
       - CAD
       - eIDAS
